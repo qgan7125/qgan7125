@@ -1,6 +1,8 @@
 ### Hi there, I'm Quan Gan or Just call me Matthew 👋
 
-<img align="center" alt="Jinx" width="200px"  src="https://media.giphy.com/media/DaqNnJ59Qwsk81gfwY/giphy.gif"/>
+<p align="center">
+    <img alt="Jinx" width="200px"  src="https://media.giphy.com/media/DaqNnJ59Qwsk81gfwY/giphy.gif"/>
+</p>
 
 ## I'm a NG from The University of Arizona. I received my computer science BS degree in 2020 and information (Machine Learning and Data Science track) degree in 2022.
 - 🔭 I’m currently working on [iSamples](https://isamplesorg.github.io/) as a Software Developer Graduate Research Assistant.
