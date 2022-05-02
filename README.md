@@ -12,4 +12,4 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>][instagram]
 
 [linkedin]: https://www.linkedin.com/in/quan-gan-028a78172/
-[instagram]: https://www.linkedin.com/in/quan-gan-028a78172/
+[instagram]: https://www.instagram.com/mr.fist_gq/
