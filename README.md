@@ -9,5 +9,7 @@
 
 ### How to connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>][instagram]
 
 [linkedin]: https://www.linkedin.com/in/quan-gan-028a78172/
+[instagram]: https://www.linkedin.com/in/quan-gan-028a78172/
